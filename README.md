@@ -3,7 +3,7 @@
 
 # [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anto.dev.00) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-napoletano-4b8746381?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:antonio.work.200309@gmail.com) 
 
-# ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
 
 # 💻 Tech Stack:
 <p align="left">
